@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
 import komunikacija.Komunikacija;
-import modeli.ModelTabeleClanova;
+import modeli.ModelTabeleClanova;   
 import javax.swing.JFrame;
 
 import operacije.Operacija;
